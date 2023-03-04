@@ -79,6 +79,7 @@
   padding: 0.75rem;
   width: 350px;
   cursor: pointer;
+  box-shadow: 5px 10px 20px hsl(245deg 75% 62%);
 }
 
 #payment button:hover {
